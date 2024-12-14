@@ -13,6 +13,7 @@
 		3D912B9A2D0DD92900AE5315 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D912B982D0DD92900AE5315 /* Main.storyboard */; };
 		3D912B9C2D0DD92B00AE5315 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3D912B9B2D0DD92B00AE5315 /* Assets.xcassets */; };
 		3D912B9F2D0DD92B00AE5315 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D912B9D2D0DD92B00AE5315 /* LaunchScreen.storyboard */; };
+		3D912BA72D0DDA5D00AE5315 /* Secondary.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D912BA62D0DDA5D00AE5315 /* Secondary.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		3D912B9B2D0DD92B00AE5315 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3D912B9E2D0DD92B00AE5315 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3D912BA02D0DD92B00AE5315 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3D912BA62D0DDA5D00AE5315 /* Secondary.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Secondary.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				3D912B942D0DD92900AE5315 /* SceneDelegate.swift */,
 				3D912B962D0DD92900AE5315 /* ViewController.swift */,
 				3D912B982D0DD92900AE5315 /* Main.storyboard */,
+				3D912BA62D0DDA5D00AE5315 /* Secondary.storyboard */,
 				3D912B9B2D0DD92B00AE5315 /* Assets.xcassets */,
 				3D912B9D2D0DD92B00AE5315 /* LaunchScreen.storyboard */,
 				3D912BA02D0DD92B00AE5315 /* Info.plist */,
@@ -128,6 +131,7 @@
 				3D912B9F2D0DD92B00AE5315 /* LaunchScreen.storyboard in Resources */,
 				3D912B9C2D0DD92B00AE5315 /* Assets.xcassets in Resources */,
 				3D912B9A2D0DD92900AE5315 /* Main.storyboard in Resources */,
+				3D912BA72D0DDA5D00AE5315 /* Secondary.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
